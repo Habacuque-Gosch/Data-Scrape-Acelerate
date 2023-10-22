@@ -24,7 +24,7 @@ Esse projeto trata-se de uma rapagem de dados de um site referente a um produto 
  
 <div align='center'>
     <h1>Aplicação<h1>
-   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/03a6fc2f00f1d7e431cee43756eae622.gif" width="300" height="224" border="0" alt="https://picasion.com/" /></a>
+   <a href="" /></a>
 </div>
             
 ## Ferramentas utilizadas
