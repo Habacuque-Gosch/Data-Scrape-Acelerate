@@ -16,8 +16,7 @@ Esse projeto trata-se de uma rapagem de dados de um site referente a um produto 
 :heavy_check_mark: `Funcionalidade 2:` Exporta os dados para uma planiha em excel
 
 :heavy_check_mark: `Funcionalidade 3:` Envia a planilha para o email desejado
-
-        
+ 
 <div align='center'>
     <h1>Aplicação<h1>
     <img src='demo.gif' title='demo' width='400px' />
