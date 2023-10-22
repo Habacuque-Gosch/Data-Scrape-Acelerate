@@ -24,7 +24,7 @@ Esse projeto trata-se de uma rapagem de dados de um site referente a um produto 
  
 <div align='center'>
     <h1>Aplicação<h1>
-   <a href="./Scrapy Soup.mp4" /></a>
+    <img src='./demo.gif' title='demo Scrapy' width='400px' />
 </div>
             
 ## Ferramentas utilizadas
