@@ -18,13 +18,9 @@ Esse projeto trata-se de uma rapagem de dados de um site referente a um produto 
 :heavy_check_mark: `Funcionalidade 3:` Envia a planilha para o email desejado
 
         
-<video width="420" height="340" controls="controls">
-    <source src="./Scrapy Soup.mp4" type="video/mp4">
-</video>
- 
 <div align='center'>
     <h1>Aplicação<h1>
-    <img src='./demo.gif' title='demo Scrapy' width='400px' />
+    <img src='demo.gif' title='demo' width='400px' />
 </div>
             
 ## Ferramentas utilizadas
