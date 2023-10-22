@@ -19,12 +19,12 @@ Esse projeto trata-se de uma rapagem de dados de um site referente a um produto 
 
         
 <video width="420" height="340" controls="controls">
-    <source src="./filme.mp4" type="video/mp4">
+    <source src="./Scrapy Soup.mp4" type="video/mp4">
 </video>
  
 <div align='center'>
     <h1>Aplicação<h1>
-   <a href="" /></a>
+   <a href="./Scrapy Soup.mp4" /></a>
 </div>
             
 ## Ferramentas utilizadas
